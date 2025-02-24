@@ -10,7 +10,7 @@
       "NODE_VERSION": "lts/*"
     }
   },
-  // Add the IDs of extensions you want installed when the container is created.
+  // Add the IDs of extensions you want to be installed when the container is created.
   "extensions": [
     "ms-dotnettools.csdevkit",
     "EditorConfig.EditorConfig",
