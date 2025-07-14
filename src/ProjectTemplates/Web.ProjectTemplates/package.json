@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/dotnet/aspnetcore#readme",
   "dependencies": {
-    "bootstrap": "^5.3.3",
+    "bootstrap": "^5.3.7",
     "jquery": "3.7",
     "jquery-validation": "^1.21.0",
     "jquery-validation-unobtrusive": "^4.0.0"
